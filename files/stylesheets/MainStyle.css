@@ -1,0 +1,72 @@
+
+.ImgThumbnail  { 
+    width: 200px;
+    padding :10px 20px;
+    opacity: 60%;
+    float: right;
+    
+}
+
+.ImgThumbnail:hover{
+        opacity: 100%;
+}
+
+.ImgLarge {
+    width :60vh;
+    margin: 25px;
+    padding: 15px ;
+    float : right;
+}
+
+.imgIcons{
+    width: 100px;
+    padding: 10px;
+}
+
+.borderLight{
+    border: 2px lightblue solid;
+    border-radius: 10px ;
+}
+
+.m5px{
+    margin:5px;
+}
+
+.m10px {
+    margin: 10px;
+}
+
+.p10px{
+    padding: 2.5vw;
+}
+
+.bgLightBlue{ 
+    background-color: dodgerblue;
+}
+
+a:hover{
+        background-color: chartreuse;
+        font-weight: bold;
+        font-style: italic;
+        padding: 5px 10px;
+        margin: 25px;
+}
+
+a:link
+{
+    color: black;
+    background-color: bisque;
+
+}
+a:active{
+    background-color: aquamarine;
+}
+/*   defining ID */
+
+#loginName{
+
+background-color: antiquewhite;
+font-style: italic;
+}
+
+
